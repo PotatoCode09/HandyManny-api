@@ -1,0 +1,30 @@
+{
+    "dragonite312": {
+        "id": "c25cbe07-233a-57a0-9c19-1b229941dc15",
+        "fullName": "Patatas",
+        "hash": "$2b$12$yus/qJ2WjtBDX.mIRZMPke1XQX3Ot2pVQTWLF3aRSNanXD6bwkWQi",
+        "userLevel": 0,
+        "createdAt": 1746189900
+    },
+    "basslover09": {
+        "id": "50630642-1395-5aa9-a8e3-5cd8cb9ec9d4",
+        "fullName": "Kamote",
+        "hash": "$2b$12$rc8uZ1rDSL8Y94/0TxAUiu.QcL5Ro/UwclDckRvN9DtG5j4wHeAG2",
+        "userLevel": 1,
+        "createdAt": 1746189927
+    },
+    "beastmaster64": {
+        "id": "269bff8d-69e1-56aa-b90d-54ce9a906550",
+        "fullName": "Gabriel Mosquera",
+        "hash": "$2b$12$mrAvf1gEgykxKYQXRGl/B.xUXIhxnA4suFDPsYE.tcCySc3E3Gjmm",
+        "userLevel": 2,
+        "createdAt": 1746189956
+    },
+    "mayongs123": {
+        "id": "66b71d4d-8786-5b69-be7d-c93c930238ac",
+        "fullName": "KamoteKyuu",
+        "hash": "$2b$12$wRE24ODsPExoaZP238XhNeFfhMBXMXDnfwpv24ztn3RWSIk6PzJiG",
+        "userLevel": 3,
+        "createdAt": 1746189983
+    }
+}
